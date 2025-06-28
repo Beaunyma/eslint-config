@@ -38,8 +38,6 @@
     "@html-eslint/eslint-plugin": "^0.41.0",
     "@html-eslint/parser": "^0.41.0",
     "@stylistic/eslint-plugin": "^4.4.1",
-    "@types/node": "^24.0.3",
-    "@types/react": "^19.1.8",
     "@typescript-eslint/parser": "^8.34.1",
     "eslint": "^9.29.0",
     "eslint-plugin-import-x": "^4.15.2",

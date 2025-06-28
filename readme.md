@@ -1,4 +1,4 @@
-# Beaunyma Eslint Config
+# Beaunyma Eslint Config &middot; [![npm version](https://img.shields.io/npm/v/@beaunyma/eslint-config)](https://www.npmjs.com/package/@beaunyma/eslint-config) [![GitHub license](https://img.shields.io/github/license/beaunyma/eslint-config.svg)](https://github.com/beaunyma/eslint-config/blob/main/license.md)
 
 ## Translate
 - 🇺🇸 [**English**](#english--)
